@@ -6,7 +6,7 @@ Personal notes for anything related to studying, mainly for actuarial exams.
 
 # ST7
 
-## "Items needed from Glossary" 
+## Items needed from Glossary
 Pages from overall eBook version of notes:
 * 01: 33
 * 02: 76
@@ -37,5 +37,5 @@ Pages from overall eBook version of notes:
 
 * All: 33, 76, 143, 184, 239, 274, 325, 350, 388, 445, 472, 494, 570, 653, 684, 729, 895, 923, 958, 984, 1027
 
-## Glossary:
+## Glossary
 The glossary is on pages 1037 - 1087.
