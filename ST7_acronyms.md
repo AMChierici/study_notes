@@ -28,16 +28,16 @@
 
 ### Conditions for insurability - Ch 2 - FIVE PUMPS
 
-***F**inancially and reasonable quantifiable risk  
+**\*F**inancially and reasonable quantifiable risk  
 **I**ndividual risk events should be independent of each other  
 **V**ariance reduced by pooling large numbers of similar risks, and hence acheive more certainty  
 **E**xisting statistical data / information sufficient to quantify risk  
     
-***P**olicyholder has an interest in the risk, to distinguish between insurance and gambling  
+**\*P**olicyholder has an interest in the risk, to distinguish between insurance and gambling  
 **U**ltimate liability should be limited  
 **M**oral hazard should be eliminated as far as possible  
 **P**robability of event should be relatively small  
-***S**ize of financial loss commensurance with the amount payable in the event of a claim  
+**\*S**ize of financial loss commensurance with the amount payable in the event of a claim  
 
 ### Advantages / disadvantages of quota share - Ch 5
 
