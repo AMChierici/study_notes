@@ -185,3 +185,75 @@
 **E**xposure measures (other) e.g. turnover, payroll, vehicle-years  
 **E**xpenses  
 
+### Reserve estimation - Ch 11 - AMPS VAM CRAM
+
+**A**ccounts - determine liabilities to be shown in:  
+  **M**anagement accounts (internal)  
+  **P**ublished accounts  
+  **S**olvency supervision  
+  
+**V**alue an insurer for purchase or sale  
+**A**ssess accuracy of previous reserve estimates  
+**M**anagement information on performance and profitability  
+
+**C**omparison of best estimates against held reserves  
+**R**ange of results calculation  
+**A**ccounting year / underwriting year transformations  
+**M**ovements in reserves calculations and analysing reasons for these  
+
+### Investiment and capital - Ch 11 - CARE
+
+The investigations relating to the capital of a general insurer that we may need include:
+
+**C**apital requirement assessement  
+**A**llocation of capital between classes of business  
+**R**eturn on capital determination  
+**E**valuation of existing portfolio  
+
+### Areas analysis of experience may cover - Ch 11- PREEPTO
+
+**P**ricing and sales of policies  
+**R**eserve (claims) estimation and changes to claims experience or the claims environment  
+**E**xposure analysis and potential aggregations of risk within an insurer's portfolio  
+**E**xpense analysis and allocation - direct/indirect  
+**P**olicyholders' behaviour  
+**T**rends (of claims) estimation, in particular frequency and inflation  
+**O**ther analyses dependent upon the information required by management, and the extent to which data is available  
+
+### Communication of analysis - Ch 11 - SAM KEW
+
+**S**ources of data, on what basis data is prepared, and how it has been verified  
+**A**ssumptions required, which results are factual, and a projection method to be derived, and uncertainty of the results  
+**M**ethodologies and definitions used  
+
+**K**ey features of the results and their implication  
+**E**xpected results compared with actual results  
+**W**hy the features have happened  
+
+
+### The main claims analyses - Ch 11 - CENTRAL PR
+
+**C**laims experience  
+**E**xpense / indemnity split  
+**N**il claims  
+**T**ypes of claim reported  
+**R**ecoveries made on gross claim amounts  
+**A**ggregations of risk and concentrations of risk  
+**L**arge claims impact and incidence  
+
+**P**artial payments on account  
+**R**eopened claims  
+
+### The main reinsurance investigations - Ch 11 - ARC ARC VP
+
+**A**ccumulations of risk  
+**R**etain amounts  
+**C**atastrophe reinsurance need  
+
+**A**ppropriateness of existing covers general assessment ((e..g proportional vs non-proportional)  
+**R**einstatements to cover - the extent of the possible need for  
+**C**apital - effects on  
+
+**V**alue for money provided by existing reinsurance programme, and if it meets objectives of business  
+**P**rofitability of layers  
+
