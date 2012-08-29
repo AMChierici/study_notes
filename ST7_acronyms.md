@@ -75,3 +75,17 @@
 **S**pread loss covers  
 **T**ime and distance policies  
 **S**tructured finance  
+
+### Capital modelling uncertainty - Ch 9 - MIS PI PIP
+
+**M**odel error / uncertainty  
+**I**ncorrect dependencies  
+**S**imulation error / too few simulations  
+
+**P**rogramming error  
+**I**ncomplete data  
+
+**P**oor quality data  
+**I**nconsistent data  
+**P**arameter error  
+
