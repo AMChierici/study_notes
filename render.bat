@@ -1,0 +1,1 @@
+pandoc ./ST7_acronyms.md -t docx -o ST7_acronyms.docx
