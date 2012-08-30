@@ -37,7 +37,7 @@
 **U**ltimate liability should be limited  
 **M**oral hazard should be eliminated as far as possible  
 **P**robability of event should be relatively small  
-**\	*S**ize of financial loss commensurance with the amount payable in the event of a claim  
+**\*S**ize of financial loss commensurance with the amount payable in the event of a claim  
 
 ### Advantages / disadvantages of quota share - Ch 5
 
