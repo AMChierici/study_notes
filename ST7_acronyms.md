@@ -76,6 +76,26 @@
 **T**ime and distance policies  
 **S**tructured finance  
 
+
+### External environment factors affecting insurance - Ch 7 - ICIC CLTS WCL
+
+*Economic factors*  
+**I**nflation - claims (price, earnings, medical cost, court award)  
+**C**ycle - underwriting  
+**I**nvestment conditions  
+**C**urrency movements  
+
+*Legal, political and social factors*  
+**C**ourt awards  
+**L**egislation  
+**T**rends in social behaviour and awareness - increasingly litigious society  
+**S**ocietal attitudes  
+
+*Climate and environmental factors*  
+**W**eather - seasonality, subsidence and land heave, location of property, global warming  
+**C**atastrophes  
+**L**atent claims  
+
 ### Capital modelling uncertainty - Ch 9 - MIS PI PIP
 
 **M**odel error / uncertainty  
