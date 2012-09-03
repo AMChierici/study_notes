@@ -372,3 +372,218 @@ The investigations relating to the capital of a general insurer that we may need
 \- **R**ecent cohorts may have limited use of chain ladder, particularly for long-tailed classes  
 \- **I**mpacted potentially significantly by usual features in data so considerable care needed  
 
+### Strengths and weaknesses of expected loss ratio method - Ch 13 - N UPBRAID
+
+\+ **N**ot distorted by anomalous data  
+
+\- **U**LRs for prior years ma be understated or overstated because of flucuations in experience  
+\- **P**remium rate changes are often only for renewed business and not for new business  
+\- **B**enchmarks used may not be appropriate  
+\- **R**eplicates past biases if loss ratios are derived from past years  
+\- **A**ssumptions underlying can be subjective, particularly when based on soft information such as underwriter's opinion  
+\- **I**gnores pattern of claims development to data  
+\- **D**ifficult to adjust for large claims  
+
+### Strengths and weakness of Bornhuetter-Ferguson method - CA C - Ch 13
+
+\+ **C**an be used when claims data is at a very early stage of development  
+\+ **A**t extreme, when no claims incurrecy, BCL gives 0 ultimate, BF method is less dependent on claims experience to date  
+
+\- **C**an be difficult to gather the information for the prior estimate for the claims  
+
+### Strengths and weaknesses of ACPC - Ch 13 - EVIL DOS DIRS
+
+\+ **E**asy to understand and communicate  
+\+ **V**olatile data and result can be helped to explain when data contains only a small number of claims  
+\+ **I**nformation provided on how both claim numbers and claim amounts are expected to develop in the future  
+\+ **L**atent claims estimation basis  
+
+\+ **D**ata is generally available, for direct business in particular  
+\+ **O**ther projection methods can be used in conjunction, e.g. chain ladder and BF  
+\+ **S**ettled claims can have ACPC applied when claims reserving policies have changed over development history, which make some other methods invalid  
+
+\- **D**istribution of claims assumed to be the same for each origin year or settlement year  
+\- **I**nformation needed which is more detailed and may not be available  
+\- **R**eopened / nil / partial payment claims may distort results  
+\- **S**mall data samples may lead to volatile results  
+
+### Reasons for differences between estimates - Ch 15 - DMIG
+
+**D**ata used different  
+**M**ethodology different  
+**I**nformation (additional) was available for underwriters and claims handling staff  
+**G**enuine differences of opinion  
+
+### Common (reserving) diagnostics - Ch 15 - LO CRISP
+
+**L**oss ratios  
+**O**utstandings - average outstanding case estimate - review of this triangle can highlight changes in strength of case estimates  
+
+**C**laim frequency and average cost per claim  
+**R**einsurance to gross ratios  
+**I**BNR to case estimates  
+**S**urvival ratios  
+**P**aid to incurred and / or case estimates to incurred ratios  
+
+### Factors affecting investment strategy - Ch 17 - NTCC ARRESTS DOOR
+
+**N**ature of existing liabilities  
+**T**erm of existing liabilities  
+**C**urrency of existing liabilities  
+**C**ertainty of existing liabilities, both in amount and timing  
+
+**A**ccrual of liabilities in the future  
+**R**eturn (expected long-term) from various asset classes and economic climate  
+**R**estrictions on investing - statutory/legal/voluntary  
+**E**xisting asset portfolio and future income, and non-investible funds  
+**S**ize of assets, both in relation to liabilities and in absolute terms / size of free reserves  
+**T**ax treatment of different investments and tax position of general insurer, e.g. differences between income/capital gains  
+**S**tatutory valuation requirement and Solvency requirements  
+
+**D**iversification (need for)  
+**O**bjectives of the institution  
+**O**ther funds' strategies (competition)  
+**R**isk appetitie of the institution and shareholders' expectations of return on capital  
+
+### Risks relating to investment strategy - Ch 17 - MR CEC CLOG
+
+**M**arket risk  
+**R**elative performance risk  
+
+**C**redit risk  
+**E**conomic risk  
+**C**urrency risk  
+
+**C**ontagion risk  
+**L**iquidity risk  
+**O**perational risk  
+**G**roup risk  
+
+### Key cashflows / factors to consider in capital modelling - Ch 18 - PC EIRE
+
+**P**remium income   
+**C**laims  
+
+**E**xpenses  
+**I**nvestment return  
+**R**einsurance  
+**E**nvironment allowances  
+
+## Requirement of a financial model - Ch 18 - FAVORS + risk measure
+A capital model requires a defined risk measure, e.g. 99.5% VaR.
+
+**F**lexible - sufficiently  
+**A**ppropriate parameter values for business being modelled and investments being modelled  
+**V**alid, complete and adequately documented  
+**O**utputs and degree of uncertainty surrounding them, should be capable of independent verification for reasonableness and should be readily communicable to those to whom advice will be given  
+**R**isk profile of classes of businesses should be reflected adequately  
+**S**imple enough - not to complex so that either results becomes difficult to interpret and communicate or the model becomes too long and expensive to run  
+
+### Factors affecting the use of reinsurance - Ch 22 - FARM FARM CRUSTS .CSV
+
+**F**inancial objectives  
+**A**ccumulations of risk  
+**R**egulatory requirements and fiscal system  
+**M**arket for reinsurance - general cost (value for money) and availability of reinsurance  
+
+**F**inancial strength of reinsurers  
+**A**lternatives including coinsurance and protection afforded by parent company  
+**R**isk appetite and tolerance of insurer  
+**M**inimum retention requirements by reinsurers  
+
+**C**apital management - impact of  
+**R**elationships with reinsurers and brokers  
+**U**nderwriters' influences  
+**S**ize of insurers free reserves  
+**T**echnical assistance needs  
+**S**ize (total premiums) and diversification of insurer's portfolio, including geographic regions in which they are located  
+
+**C**lasses of business written  
+**S**ize and range of risks  
+**V**olatility of risks  
+
+### Reasons for using reinsurance - Ch 22 - DARN CLAMPS
+
+**D**iversification  
+**A**ssistance - technical  
+**R**egulation  
+**N**ew classes  
+
+**C**atastrophes  
+**L**arger risks  
+**A**ssistance - financial  
+**M**ore business  
+**P**rotection  
+**S**mooth profits  
+
+### Accounting ratios - Ch 25 - CLASPS PRICE
+
+**C**ombined ratio  
+**L**oss ratio / claim ratio  
+**A**ssets to liabilities  
+**S**olvency ratio  
+**P**roportion reinsured  
+**S**ettlement pattern of claims  
+
+**P**rofit margin  
+**R**eturn on capital  
+**I**nvestment return  
+**C**ommission rate  
+**E**xpense ratio  
+
+### Regulated areas / restrictions - Ch 26 - IM A CRIMP BRAS TECH SCAM DARTS SIM CALL T
+
+### Regulation - Underwriting restrictions - Ch 26 - IM A CRIMP
+
+**I**nformation - restrictions on what can be used in underwriting and premium rating  
+**M**ix of business / amount / type restrictions  
+
+**A**nti-competitive practice restrictions by requirements of filing/publishign premium rates before they can be used  
+
+**C**ountries / location of business restrictions  
+**R**equirement to offer certain cover  
+**I**llegal products prohibited from being sold  
+**M**andatory restrictions on cover, e.g. no deductible on employers' liability  
+**P**remium rate limits that can be charged  
+
+### Regulation - Capital requirements - Ch 26 - BRAS
+
+**B**ases prescribed to calculate premium, asset values and liabilities to demonstrate solvency  
+**R**isk-based capital calculations and ICA analyses  
+**A**ssets held to back claims reserves  
+**S**olvency minimum level requirement  
+
+### Regulation - Regulatory controls on assets - Ch 26 / Ch 17 - TECH SCAM
+
+**T**ypes of assets a provider can invest in  
+**E**xtent of mismatching allowed  
+**C**urrency matching assets and liabilities requirements / domicile / duration of assets  
+**H**old a certain proportion of total assets in a particular class, e.g. gilts  
+
+**S**ingle counterparty maximum exposure restrictions  
+**C**ustodianship of assets  
+**A**mount a particular type of asset can be taken into account for the purposes of demonstrating solvency  
+**M**ismatching reserve requirement  
+
+### Regulation - Reporting requirements - Ch 26 - DARTS
+
+**D**iscounting of liabilities and discount rates that can be used  
+**A**udit requirements  
+**R**einsurance restrictions on type, and requirement to use  
+**T**ransparancy (/ disclosure) of reporting requirements  
+**S**tatement of Actuarial Opinion requirements  
+
+### Regulation - Authorisation requirements - Ch 26 - SIM
+
+**S**ales method requirements and licensing agents  
+**I**nitial authorisation of new insurance companies  
+**M**anagement requirement to be fit and proper  
+
+### Regulation - Other requirements to protect policyholders - Ch 26 - CALL T
+
+**C**ooling off period  
+**A**nti-competitive behaviour  
+**L**egislation to protect policyholders should GI companies fail, e.g. Financial Services Compensation Scheme  
+**L**evies payment requirement to consumer protection bodies  
+
+**T**reating customers fairly regulations  
