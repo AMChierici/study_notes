@@ -341,3 +341,34 @@ The investigations relating to the capital of a general insurer that we may need
 
 **V**alue for money provided by existing reinsurance programme, and if it meets objectives of business  
 **P**rofitability of layers  
+
+### Stability of claims development pattern issue - Ch 13 - LET DRUMS MARCH
+
+**L**ength of average policy  
+**E**nvironment - business / economic / legal  
+**T**erms and conditions changes  
+
+**D**ata disrotions  
+**R**eviews - e.g. adequacy of claims reserves  
+**U**nderwriting changes  
+**M**ix of business changes  
+**S**easonality  
+
+**M**arket-wide initiatives  
+**A**ctuarial judgement  
+**R**eserving policy  
+**C**ommencement of writing policies  
+**H**andling of claims procedure changes  
+
+### Strengths and weaknesses of the chain ladder method - Ch 13 - VUMES URI
+
+\+ **V**ariety of data sets can have chain ladder appied  
+\+ **U**ltimates can be projected provided data can be arranged into a development triangle  
+\+ **M**odifications to the method are easy to allow for data distortions  
+\+ **E**asy to relate results back to pattern of development and method conceptually straightforward  
+\+ **S**erves as starting point for a number of other methods, e.g. Bornhuetter-Ferguson  
+
+\- **U**nusual experience distorts results (e.g. very good or very bad past claims experience)  
+\- **R**ecent cohorts may have limited use of chain ladder, particularly for long-tailed classes  
+\- **I**mpacted potentially significantly by usual features in data so considerable care needed  
+
