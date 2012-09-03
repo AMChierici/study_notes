@@ -109,6 +109,20 @@
 **I**nconsistent data  
 **P**arameter error  
 
+### Expense uncertainty - Ch 9 - A TAD NOBLE
+
+**A**ggregators  
+
+**T**ax  
+**A**ccounting changes  
+**D**istribution channels  
+
+**N**ew marets  
+**O**ff-shoring  
+**B**roker power  
+**L**evies  
+**E**conomic conditions  
+
 ### Uses of data - Ch 10 - SIR MAPEMAP
 
 **S**tatutory returns  
@@ -276,4 +290,3 @@ The investigations relating to the capital of a general insurer that we may need
 
 **V**alue for money provided by existing reinsurance programme, and if it meets objectives of business  
 **P**rofitability of layers  
-
