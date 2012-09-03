@@ -123,6 +123,36 @@
 **L**evies  
 **E**conomic conditions  
 
+### Reserving uncertainty - Ch 9 - BALANCED FLACCID DAFT CRUMB
+
+**B**ehaviour of third parties  
+**A**mounts of claims  
+**L**atent claims  
+**A**ssumption on distribution  
+**N**ew classes - lack of data  
+**C**atastrophes  
+**E**conomic conditions  
+**D**evelopment patterns  
+
+**F**requency of claims  
+**L**egislation  
+**A**reas (globalisation) - lack of data  
+**C**limate change  
+**C**laim handling procedures  
+**I**nflation  
+**D**emand surge  
+
+**D**istribution channels  
+**A**rrangements for profit shares  
+**F**ormat of data  
+**T**hird party handlers - lack of data  
+
+**C**ompetitive pressue  
+**R**eserving philosophy  
+**U**nusual / large risks  
+**M**ix of business - changes over time  
+**B**odily injury claims (legislation)  
+
 ### Uses of data - Ch 10 - SIR MAPEMAP
 
 **S**tatutory returns  
