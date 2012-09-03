@@ -153,6 +153,27 @@
 **M**ix of business - changes over time  
 **B**odily injury claims (legislation)  
 
+### Investment uncertainty - Ch 9 - AGE ROT
+
+**A**ctions by central bank  
+**G**lobalisation  
+**E**conomic cycle & economic policies  
+
+**R**eturn  
+**O**verseas investments (and exchange rates)  
+**T**ype of investment (e.g. new types)  
+
+### Return on capital uncertainty - Ch 9 - CGI MICE
+
+**C**ompetition  
+**G**lobalisation  
+**I**nsurance cycle  
+
+**M**argins on premiums  
+**I**nvestment return  
+**C**laims  
+**E**xpenses  
+
 ### Uses of data - Ch 10 - SIR MAPEMAP
 
 **S**tatutory returns  
