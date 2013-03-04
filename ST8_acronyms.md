@@ -17,3 +17,21 @@
 **S**olvency maintained at a mininium level requirement, measured in some prescribed manner.  
 
 
+### Reasons for monitoring business - Ch 19 - PRIMARR
+
+**P**erformance assessment against goals  
+**R**isk management  
+**I**nfluence the market  
+**M**arket information  
+**A**ssumption validation as part of ACC  
+**R**egulatory requirement  
+**R**eserving, assessing  
+
+### Key features of good systems for monitoring business - Ch 19 - TACET
+
+**T**ailored output - output should be consise and tailored to strategic goals of organisation. Output should aid decision making  
+**A**ccuracy - data, and results, should be reliable and validated; calculations should take into account all key drivers  
+**C**onsistent - over time and with other data sources and analyses    
+**E**ase of use - data should be easy to collect, calculations shouldn't be overly complex, system should be documented, extendable and low maintenance, results should be clear and easy for users to interpret  
+**T**imely production of results - delay between data cut-off datae and production of results should be minimal.  
+    
