@@ -16,13 +16,22 @@
 **R**eserves for claims with requirement to deposit assets to back claims reserve.  
 **S**olvency maintained at a mininium level requirement, measured in some prescribed manner.  
 
+### Uncertainties in pricing - Ch 9 - MR DAMP
+
+**M**arket conditions
+**R**andom errors
+
+**D**ata errors
+**A**djustment factors
+**M**odel error
+**P**ortfolio movements
 
 ### Reasons for monitoring business - Ch 19 - PRIMARR
 
 **P**erformance assessment against goals  
 **R**isk management  
 **I**nfluence the market  
-**M**arket information  
+**M**arket intelligence  
 **A**ssumption validation as part of ACC  
 **R**egulatory requirement  
 **R**eserving, assessing  
@@ -33,5 +42,5 @@
 **A**ccuracy - data, and results, should be reliable and validated; calculations should take into account all key drivers  
 **C**onsistent - over time and with other data sources and analyses    
 **E**ase of use - data should be easy to collect, calculations shouldn't be overly complex, system should be documented, extendable and low maintenance, results should be clear and easy for users to interpret  
-**T**imely production of results - delay between data cut-off datae and production of results should be minimal.  
+**T**imely production of results - delay between data cut-off date and production of results should be minimal.  
     
