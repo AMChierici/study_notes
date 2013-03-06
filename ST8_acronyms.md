@@ -18,13 +18,36 @@
 
 ### Uncertainties in pricing - Ch 9 - MR DAMP
 
-**M**arket conditions
-**R**andom errors
+**M**arket conditions  
+**R**andom errors  
 
-**D**ata errors
-**A**djustment factors
-**M**odel error
-**P**ortfolio movements
+**D**ata errors  
+**A**djustment factors  
+**M**odel error  
+**P**ortfolio movements  
+
+### Rating analysis steps - Ch 19 - EEPS CAP
+
+**E**stimating ultimate claims of recent claims incurred  
+**E**stimating profitability of existing rating structure  
+**P**rojection forward to new rating period  
+**S**uitability review of existing rating structure  
+
+**C**ompraing rates with competition  
+**A**djusting application for lifetime value  
+**P**rofitability analysis of old years on new rates
+
+### Expense analyses and expense types - Ch 19 - IVAP SPIC
+
+**I**ndirect / direct  
+**V**ariable / fixed  
+**A**llocate by class and rating group  
+**P**roportion of number of policies or claims, or of amounts of premiums, sum insured or claim  
+
+**S**alaries and related costs  
+**P**roperty costs (rent, property taxes, heating, lighting and cleaning)  
+**I**nvestment expenses (investment department, stamp duty, commission, etc   
+**C**omputer costs  
 
 ### Reasons for monitoring business - Ch 19 - PRIMARR
 
