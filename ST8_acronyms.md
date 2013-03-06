@@ -66,6 +66,22 @@
 **P**ersistency and profitability by source  
 **Q**uoatation volumes  
 
+### Rate change calculation methods - Ch 19 - SURE
+
+**S**tandard risk (sample of) direct calculation / representative risks  
+**U**nderwriters' views  
+**R**enewals - measure rate changes on individual renewals  
+**E**very risk - direct calculation separately  
+
+### Portfolio movements monitored - Ch 19 - MENSRM
+
+**M**id-term cancellations  
+**E**ndorsements  
+**N**ew business volumes  
+**S**trike (conversion) / not taken up rates  
+**R**enewals / lapses  
+**M**ix of business  
+
 ### Key features of good systems for monitoring business - Ch 19 - TACET
 
 **T**ailored output - output should be consise and tailored to strategic goals of organisation. Output should aid decision making  
@@ -74,3 +90,13 @@
 **E**ase of use - data should be easy to collect, calculations shouldn't be overly complex, system should be documented, extendable and low maintenance, results should be clear and easy for users to interpret  
 **T**imely production of results - delay between data cut-off date and production of results should be minimal.  
     
+### Use of (pricing) actuarial analyses - Ch 19 - FOR PPL
+
+**F**eed into other processes, e.g. capital models (reserve estimation, valuation, budgeting, strategy)  
+**O**ther pricing and reinsurance decisions  
+**R**edesign rating tariffs  
+
+**P**rofit testing  
+**P**rice elasticity estimation  
+**L**ifetime pricing models  
+
