@@ -59,6 +59,13 @@
 **R**egulatory requirement  
 **R**eserving, assessing  
 
+### Key policy experience factors monitored - Ch 19 - RPPQ
+
+**R**ate changes  
+**P**ortfolio movements  
+**P**ersistency and profitability by source  
+**Q**uoatation volumes  
+
 ### Key features of good systems for monitoring business - Ch 19 - TACET
 
 **T**ailored output - output should be consise and tailored to strategic goals of organisation. Output should aid decision making  
