@@ -100,3 +100,13 @@
 **P**rice elasticity estimation  
 **L**ifetime pricing models  
 
+### Modules in a catastrophe model - Ch 21 - H FIVE
+
+**H**azard  
+
+**F**inancial analysis  
+**I**nventory (or exposure)  
+**V**ulnerability  
+**E**vent  
+
+
