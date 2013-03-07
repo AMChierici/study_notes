@@ -26,6 +26,27 @@
 **M**odel error  
 **P**ortfolio movements  
 
+### Uncertainty relating to process error - Ch 9 - CIS, CD MBENN EI
+
+<table>
+  <tr>
+    <td rowspan = 2><b>C</b>laims general uncertainty</td>
+    <td><b>C</b>laims inherent uncertainty in individual claims (amount, frequency and timing)</td></tr>
+  <tr><td><b>D</b>emand surge</td></tr>
+  <tr>
+    <td rowspan = 5><b>I</b>nternal sources</td>
+    <td><b>M</b>ix of business</td></tr>
+  <tr><td><b>B</b>ooked reserves different to best estimate</td></tr>
+  <tr><td><b>E</b>expense uncertainty</td></tr>
+  <tr><td><b>N</b>ew markets</td></tr>
+  <tr><td><b>N</b>ew types of investment</td></tr>
+  <tr>
+    <td rowspan = 2><b>S</b>ystematic sources</td>
+    <td><b>E</b>conomic environment</td></tr>
+  <tr><td><b>I</b>nsurance cycle</td></tr>
+</table>
+        
+
 ### Rating analysis steps - Ch 19 - EEPS CAP
 
 **E**stimating ultimate claims of recent claims incurred  
