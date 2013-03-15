@@ -43,6 +43,16 @@
 
 \- **C**omplex administration  
 \- **U**nsuitable for unlimited covers and personal lines cover  
+
+### Advantages / disadvantages of excess of loss - Ch 6 - ARCS P
+\+ **A**llows insurers to accept risks that could lead to large claims  
+\+ **R**educes risk of insolvency from a large claims  
+\+ **C**apital used more effectively  
+\+ **S**mooths results  
+
+\- **P**remium higher than expected recoveries in the long run  
+
+
 ### Regulatory restrictions for general insurance companies (ST8 reduced list) - Ch 7 - PILL LIT BARS
 
 **P**remium rates -> limits or controls on those that can be charged  
