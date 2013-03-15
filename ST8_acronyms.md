@@ -19,7 +19,19 @@
 * insurer's experience in marketplace
 * insurer's available free assets
 * size of insurer's portfolio
-* srange within which business outcome can be forecast with confidence
+* range within which business outcome can be forecast with confidence
+
+### Advantages / disadvantages of quota share - Ch6 - SSSC CCPU
+
+\+ **S**preads risks, increasing capacity and encouraging reciprocal business  
+\+ **S**olvency ratio is directly improved without losing market share  
+\+ **S**imple administratively  
+\+ **C**ommission may be provided that helps with cashflow  
+
+\- **C**edes same proportion of low and high variance risks  
+\- **C**edes same proportion of risks, irrespective of size  
+\- **P**asses a share of any profit to the reinsurer  
+\- **U**nsuitable for unlimited covers  
 
 ### Regulatory restrictions for general insurance companies (ST8 reduced list) - Ch 7 - PILL LIT BARS
 
