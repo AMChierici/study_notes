@@ -52,6 +52,13 @@
 
 \- **P**remium higher than expected recoveries in the long run  
 
+### Types of financial reinsurance / FinRe - Ch 6 - FISTS
+
+**F**inancial quota share - quota share purchased in order to obtain reinsurance commissions for financing assistance  
+**I**ndustry loss warranties - a type of RI that pays out based on industry losses rather than losses to individual insurers  
+**S**pread loss covers - insurer pays annual or single premium to reinsurer for coverage of specific claims. May be used to provide liquidity and security to the insurer and may be used for catastrophes  
+**T**ime and distance policies - insurer pays reinsurer a premium and in return reinsurer pays agreed schedule of claim payment; effectively discounts the reserves  
+**S**tructured finance - often provide insurer with a credit enhancement, which lowers the cost of borrowing  
 
 ### Regulatory restrictions for general insurance companies (ST8 reduced list) - Ch 7 - PILL LIT BARS
 
