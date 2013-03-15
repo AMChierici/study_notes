@@ -1,5 +1,26 @@
 % ST8 acronyms
 
+### Reasons for reinsurance - Ch 5 - SAD LIFE PS
+
+**S**moothing of results  
+**A**voidance of large (single) losses  
+**D**iversification  
+
+**L**imit exposure to risk (single risks, aggregation of single risks, accumulations, multi-class losses)  
+**I**ncrease capacity to accept risks  
+**F**inancial assistance (and technical assistance)  
+**E**xpertise - to develop new markets and products  
+
+**P**rofitability increase  
+**S**olvency margin improvement
+
+### Factors affecting desire to limit expsoure to risk 
+* size of insurer  
+* insurer's experience in marketplace
+* insurer's available free assets
+* size of insurer's portfolio
+* srange within which business outcome can be forecast with confidence
+
 ### Regulatory restrictions for general insurance companies (ST8 reduced list) - Ch 7 - PILL LIT BARS
 
 **P**remium rates -> limits or controls on those that can be charged  
