@@ -76,6 +76,27 @@
 **R**eserves for claims with requirement to deposit assets to back claims reserve.  
 **S**olvency maintained at a mininium level requirement, measured in some prescribed manner.  
 
+### External environment factors affecting insurance - Ch 8 - ICIC CLTS WCL T
+
+_Economic factors_:  
+**I**nflation - claims (price, earnings, medical costs, court award)  
+**C**ycle - underwriting  
+**I**nvestment conditions  
+**C**urrency movements  
+
+_Legal, political and social factors_:  
+**C**ourt awards  
+**L**egislation  
+**T**rends in social behaviour and awareness - increasingly litigious society  
+**S**ocietal attitudes  
+
+_Climate and environmental factors_:  
+**W**eather - seasonality, subsidence and land heave, location of property, global warming  
+**C**atastophes  
+**L**atent claims  
+
+_**T**echnological factors_  
+
 ### Uncertainties in pricing - Ch 9 - MR DAMP
 
 **M**arket conditions  
