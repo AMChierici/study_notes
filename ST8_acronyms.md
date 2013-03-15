@@ -33,6 +33,16 @@
 \- **P**asses a share of any profit to the reinsurer  
 \- **U**nsuitable for unlimited covers  
 
+### Advantages / disadvantages of surplus - Ch 6 - FLUSC CU
+
+\+ **F**ine tuning of experience  
+\+ **L**arger risks can be written  
+\+ **U**seful for classes where wide variation can occur in the size of risks (mainly used in commerical property)  
+\+ **S**preads risks  
+\+ **C**ommission may be provided which helps with cashflow  
+
+\- **C**omplex administration  
+\- **U**nsuitable for unlimited covers and personal lines cover  
 ### Regulatory restrictions for general insurance companies (ST8 reduced list) - Ch 7 - PILL LIT BARS
 
 **P**remium rates -> limits or controls on those that can be charged  
