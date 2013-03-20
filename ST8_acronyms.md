@@ -14,7 +14,7 @@
 **P**rofitability increase  
 **S**olvency margin improvement
 
-### Factors affecting desire to limit expsoure to risk 
+### Factors affecting desire to limit exposure to risk - Ch 5  
 * size of insurer  
 * insurer's experience in marketplace
 * insurer's available free assets
@@ -126,7 +126,23 @@ _**T**echnological factors_
     <td><b>E</b>conomic environment</td></tr>
   <tr><td><b>I</b>nsurance cycle</td></tr>
 </table>
-        
+
+### Uncertainty relating to parameter error - Ch 9 - QII SCULC FLICC
+
+**Q**uality of data door  
+**I**nconsistent data  
+**I**ncomplete and nonexistent data  
+
+**S**tatistical distribution assumptions modelled  
+**C**orrelations assumptions modelled  
+**U**nplanned / planned changes in business mix  
+**L**arger, latent and cat risks  
+**C**ase estimate philosophy changes  
+
+**F**ormat of data  
+**I**nadequate data from third part handlers / suppliers  
+**C**laims infolation not as expected  
+**C**ommissiions, slaes expenses, new distribution channel  
 
 ### Rating analysis steps - Ch 19 - EEPS CAP
 
