@@ -144,6 +144,45 @@ _**T**echnological factors_
 **C**laims infolation not as expected  
 **C**ommissiions, slaes expenses, new distribution channel  
 
+### Model specification uncertainty - Ch 9 - PMS
+
+**P**rogramming error  
+**M**odel error  
+**S**imulation error / two few sims  
+
+### Future system risk - Ch 9 - ICE BEARD MTG CCG (A BALLOT)
+
+**I**nflation of claims / changes in  
+**C**limate change  
+**E**xternal environment - other changes (A BALLOT)  
+
+**B**odily injury claims (legislation)  
+**E**conomic conditions  
+**A**rragnements for profit sharing increasing  
+**R**egulatory arbitrage and regulation  
+**D**istribution channels, new  
+
+**M**onetary policy failing to control economic conditions  
+**T**hird party behaviour differences  
+**G**lobalisation of investment markets  
+
+**C**laims handling procedure, changes / new  
+**C**ompetition factos (globalistation insurance / regulatory arbitrage)  
+**G**lobalisation of insurance markets  
+
+### External environment - Ch 9 - A BALLOT
+
+**A**ggregators  
+
+**B**roker mergers  
+**A**ccounting changes  
+**L**egislation  
+**L**eviews and other charges  
+**O**ff-shoring  
+**T**ax rate change  
+
+
+
 ### Rating analysis steps - Ch 19 - EEPS CAP
 
 **E**stimating ultimate claims of recent claims incurred  
