@@ -182,6 +182,91 @@ _**T**echnological factors_
 **T**ax rate change  
 
 
+### Sources of data - Ch 10 - TRAINERS
+
+**T**ables  
+**R**einsurers  
+**A**broad  
+**I**ndustry data  
+**N**ational statistics  
+**E**xisting products  
+**R**egulatory returns and accounts  
+**S**imilar products  
+
+### Problems with industry data - Ch 10 - DR DONEQ
+
+**D**etail insufficient, or less flexible, than those available internally  
+**R**isk factors differ from organisation to organisation  
+
+**D**ifference in organisations / heterogeneity
+
+    * different geographical or socio-economic sections of the market
+    * non-identical policies
+    * sales methods not identical
+    * different practices, e.g. underwriting, claim settlement, and outstanding claims reserving policies
+    * nature of data stored may be different
+
+**O**ut of data data compare to internal data  
+**N**ot all organisations contribute  
+**E**rrors  
+**Q**uality only as good as that of contributors' data systems  
+
+### Uses of data - Ch 10 - SIR MAPEMAP
+
+**S**tatutory returns  
+**I**nvestment strategy and performance analysis  
+**R**isk management  
+
+**M**anagement information and financial control  
+**A**dministration  
+**P**ricing - premium rating and product costing  
+**E**xperience statistics and analyses  
+**M**arketing  
+**A**ccounting  
+**P**rovisioning (reserving) and Capital modelling  
+
+### Key factors affecting quality and quantity of data - Ch 10 - SLIM N DC
+
+**S**ize and age of company  
+**L**egacy systems  
+**I**ntegrity of data systems  
+**M**anagement and staff  
+**N**ature of organisation  
+
+**D**istribution method / method of sale  
+**C**lass of business  
+
+### Key features of premium information - Ch 10 - ACT POC
+
+**A**mount of premium written / signed  
+**C**ommissions  
+**T**imes of payment(s)  
+
+**P**remium adjustments  
+**O**ther deductions  
+**C**ross-selling  
+
+### Claim information key features - Ch 10 - DORM ERA
+
+**D**efinition of claims  
+**O**utstanding amounts (estimated)  
+**R**eopened claims  
+**M**ultiple claim payments  
+
+**E**xpenses - claims handling  
+**R**einsurance recoveries  
+**A**djustments at class level  
+
+
+### Information to be recorded - policy / claims record - Ch 10 - SAD CAD
+
+**S**tatus of present record  
+**A**mounts relevant and currencies  
+**D**efinition of risk and details of cover  
+
+**C**laim details (if claims record)  
+**A**dministrative details  
+**D**ates (control)  
 
 ### Rating analysis steps - Ch 19 - EEPS CAP
 
