@@ -2,6 +2,18 @@
 
 Personal notes for anything related to studying, mainly for actuarial exams.
 
+## ST8
+
+Pages for relevant past paper question papers only from ST8 past paper: 
+1-4
+20-23
+37-40
+55-58
+72-76
+90-94
+108-112
+127-132
+ 
 
 ## ST7
 
