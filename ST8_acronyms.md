@@ -268,6 +268,19 @@ _**T**echnological factors_
 **A**dministrative details  
 **D**ates (control)  
 
+### Properties of good rating factors - ADA VENOM
+
+**A**cceptable for policyholder  
+**D**efines risk  
+**A**cceptable market  
+
+**V**erifiable  
+**E**ase of use  
+**N**on-manipulable  
+**O**bjective  
+**M**easurable  
+
+
 ### Rating analysis steps - Ch 19 - EEPS CAP
 
 **E**stimating ultimate claims of recent claims incurred  
