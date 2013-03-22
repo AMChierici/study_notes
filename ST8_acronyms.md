@@ -1,5 +1,44 @@
 % ST8 acronyms
 
+### Conditions for insurability - Ch 2 - FIVE PUMPS
+
+**\*F**inancially and reasonable quantifiable risk  
+**I**ndividual risk events should be independent of each other  
+**V**ariance reduced by pooling large numbers of similar risks, and hence acheive more certainty  
+**E**xisting statistical data / information sufficient to quantify risk  
+    
+**\*P**olicyholder has an interest in the risk, to distinguish between insurance and gambling  
+**U**ltimate liability should be limited  
+**M**oral hazard should be eliminated as far as possible  
+**P**robability of event should be relatively small  
+**\*S**ize of financial loss commensurance with the amount payable in the event of a claim  
+
+### Claims characteristics - CRAFT CRAMPS VEND DRILL
+    
+**C**atastrophes  
+**R**eporting delays  
+**A**ccumulations  
+**F**requency  
+**T**rends  
+  
+**C**urrency  
+**R**einsurance  
+**A**mount (severity)  
+**M**oral hazard  
+**P**artial payments  
+**S**ettlement delays  
+  
+**V**olatility  
+**E**vent delays  
+**N**il claims  
+**D**efinition  
+  
+**D**istribution  
+**R**eopened claims  
+**I**nflation  
+**L**arge claims  
+**L**atent claims  
+
 ### Reasons for reinsurance - Ch 5 - SAD LIFE PS
 
 **S**moothing of results  
@@ -181,7 +220,6 @@ _**T**echnological factors_
 **O**ff-shoring  
 **T**ax rate change  
 
-
 ### Sources of data - Ch 10 - TRAINERS
 
 **T**ables  
@@ -280,7 +318,6 @@ _**T**echnological factors_
 **O**bjective  
 **M**easurable  
 
-
 ### Rating analysis steps - Ch 19 - EEPS CAP
 
 **E**stimating ultimate claims of recent claims incurred  
@@ -354,6 +391,16 @@ _**T**echnological factors_
 **P**rofit testing  
 **P**rice elasticity estimation  
 **L**ifetime pricing models  
+
+### RI burning cost calculation process - Ch 20 - TAA DAD
+
+**T**rend the claims data  
+**A**pply reinsurance contract terms to give the loss to the layer  
+**A**ggregate by year to give triangles of paid/incurred losses  
+
+**D**evelop to ultimate using benchmarks if necessary  
+**A**djust exposure (often premium) for past rate and exposure changes  
+**D**ivide losses by exposure to get burning cost  
 
 ### Modules in a catastrophe model - Ch 21 - H FIVE
 
