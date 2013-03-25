@@ -200,7 +200,7 @@ _**T**echnological factors_
   <tr><td><b>I</b>nsurance cycle</td></tr>
 </table>
 
-### Uncertainty relating to parameter error - Ch 9 - QII SCULC FLICC
+### Uncertainty relating to parameter error - Ch 9 - QII SCULC FICC
 
 **Q**uality of data door  
 **I**nconsistent data  
@@ -339,6 +339,13 @@ _**T**echnological factors_
 **C**laim details (if claims record)  
 **A**dministrative details  
 **D**ates (control)  
+
+### Categories of pricing - Ch 12 - QDICT
+**Q**ualitative  
+**D**istribution  
+**I**ndustrial  
+**C**ost plus  
+**T**ariff  
 
 ### Properties of good rating factors - ADA VENOM
 
