@@ -347,6 +347,28 @@ _**T**echnological factors_
 **C**ost plus  
 **T**ariff  
 
+### Pure risk premium steps - Ch 12 - CAR AS TRV
+**C**ollect relevant data  
+**A**djust and group data  
+**R**ating model / estimation process selection for the specific case  
+
+**A**nalyse the data  
+**S**et assumptions required by the model or process  
+
+**T**est the assumptions for goodness of fit or likelihood  
+**R**un the model or process to arrive at an estimate of future claims costs  
+**V**alidity checking of estimate by sensitivity and scenario testing, or other methods 
+
+### Office premium loadings - Ch 12 - TCP RICE
+**T**ax  
+**C**ommission  
+**P**rofit (/ return on capital  
+
+**R**einsurance  
+**I**nvestment income  
+**C**ontingencies  
+**E**xpenses  
+
 ### Properties of good rating factors - ADA VENOM
 
 **A**cceptable for policyholder  
