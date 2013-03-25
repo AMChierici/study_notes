@@ -51,6 +51,28 @@
 **D**irectors and Officers (D&O) liability  
 **E**nvironmental liability  
 
+### Main types of property damage insurance - Ch 3 - BM LM GCEE  
+**B**uildings - residential, commerical and industrial  
+**M**oveable property (e.g. contents of home or commerical premises)  
+
+**L**and vehicles (eg cars, buses, taxis)  
+**M**arine and aircraft  
+
+**G**oods in transit  
+**C**onstruction  
+**E**ngineering plant and machinery  
+**E**xtended warranty  
+
+### Main types of financial loss insurance - Ch 3 - FCC BL
+**F**idelity guarantee  
+**C**redit insurance (trade credit and mortgage indemnity)
+**C**reditor insurance  
+
+**B**usiness interruption cover (aka consequential loss)  
+**L**egal expenses cover  
+
+### Main types of fixed benefits
+**P**ersonal accident cover  
 ### Reasons for reinsurance - Ch 5 - SAD LIFE PS
 
 **S**moothing of results  
