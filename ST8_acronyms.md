@@ -65,7 +65,7 @@
 
 ### Main types of financial loss insurance - Ch 3 - FCC BL
 **F**idelity guarantee  
-**C**redit insurance (trade credit and mortgage indemnity)
+**C**redit insurance (trade credit and mortgage indemnity)  
 **C**reditor insurance  
 
 **B**usiness interruption cover (aka consequential loss)  
