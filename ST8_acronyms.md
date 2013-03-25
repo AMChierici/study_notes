@@ -192,8 +192,8 @@ _**T**echnological factors_
 
 **F**ormat of data  
 **I**nadequate data from third part handlers / suppliers  
-**C**laims infolation not as expected  
-**C**ommissiions, slaes expenses, new distribution channel  
+**C**laims inflation not as expected  
+**C**ommissions, sales expenses, new distribution channel  
 
 ### Model specification uncertainty - Ch 9 - PMS
 
