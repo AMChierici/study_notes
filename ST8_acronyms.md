@@ -369,7 +369,7 @@ _**T**echnological factors_
 **C**ontingencies  
 **E**xpenses  
 
-### Properties of good rating factors - ADA VENOM
+### Properties of good rating factors - Ch 13 - ADA VENOM
 
 **A**cceptable for policyholder  
 **D**efines risk  
@@ -380,6 +380,25 @@ _**T**echnological factors_
 **N**on-manipulable  
 **O**bjective  
 **M**easurable  
+
+### Adjustments to data - Ch 14 - TRIM RILLS CRUNCH
+**T**rends  
+**R**isk  
+**I**nflation  
+**M**ix  
+
+**R**einsurance  
+**I**BNR  
+**L**arge claims  
+**L**ight experience  
+**S**ales channel  
+
+**C**over  
+**R**egulations and environment - legislative, technology, medical advance, property construction etc  
+**U**nderwriting  
+**N**il claims  
+**C**laims handling  
+**H**eavy experience  
 
 ### Rating analysis steps - Ch 19 - EEPS CAP
 
