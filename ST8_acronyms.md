@@ -39,6 +39,18 @@
 **L**arge claims  
 **L**atent claims  
 
+### Main types of liability insurance - Ch 3 - EMM PPP DE
+**E**mployer's liability / worker' compensation  
+**M**otor third party liability  
+**M**arine and aviation liability  
+
+**P**ublic liability  
+**P**roduct liability  
+**P**rofessional liability  
+
+**D**irectors and Officers (D&O) liability  
+**E**nvironmental liability  
+
 ### Reasons for reinsurance - Ch 5 - SAD LIFE PS
 
 **S**moothing of results  
