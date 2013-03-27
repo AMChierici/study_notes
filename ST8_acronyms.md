@@ -438,7 +438,7 @@ _**T**echnological factors_
 **R**ate changes  
 **P**ortfolio movements  
 **P**ersistency and profitability by source  
-**Q**uoatation volumes  
+**Q**uotation volumes  
 
 ### Rate change calculation methods - Ch 19 - SURE
 
