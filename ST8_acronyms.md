@@ -453,6 +453,14 @@ _**T**echnological factors_
 **A**djusting application for lifetime value  
 **P**rofitability analysis of old years on new rates
 
+### Reasons for carrying out an expense analysis - Ch 19 - FLAMS
+
+**F**inancial planning  
+**L**oadings - determination for rating  
+**A**llocating expenses between different classes and rating groups  
+**M**easure performance of each class  
+**S**tatutory returns details (including DAC and CHE)  
+
 ### Expense analyses and expense types - Ch 19 - IVAP SPIC
 
 **I**ndirect / direct  
