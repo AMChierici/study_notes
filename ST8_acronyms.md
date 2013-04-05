@@ -526,6 +526,20 @@ _**T**echnological factors_
 **A**djust exposure (often premium) for past rate and exposure changes  
 **D**ivide losses by exposure to get burning cost  
 
+### Pricing RI vs pricing direct - Ch 20 - DISSP EPP
+
+_differences_:   
+**D**ata - volume and nature available  
+**I**ndividual nature of most pricing exercises  
+**S**tandard contracts rarer - need to read slip and clarify all policy / cover details  
+**S**tochastic pricing often  
+**P**urpose may be different: quoting terms, or acting as following underwriter and deciding whether to accept terms
+
+_similarities_:  
+**E**xpense loading  
+**P**rofit loading  
+**P**ayment to brokers loading  
+
 ### Modules in a catastrophe model - Ch 21 - H FIVE
 
 **H**azard  
