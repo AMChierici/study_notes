@@ -378,6 +378,25 @@ _**T**echnological factors_
 **C**ontingencies  
 **E**xpenses  
 
+### Office premium loadings (after TCP RICE) - Ch 13 - SPRICERS RCP LL
+
+**S**trategy, eg building and maintaining market share  
+**P**rofit testing  
+**R**einsurer capacity impact  
+**I**nsurance cycle  
+**C**ompetitors' rates  
+**E**xperience rating  
+**R**egulatory demands, eg minimum or maximum rates  
+**S**ales/quote system constraints  
+
+**R**elationships with distributors or brokers - maintaining  
+**C**apital availability  
+**P**rice elasticity  
+
+**L**evies, e.g. paid to policyholder protection schemes such as Financial Services Compensation Scheme or Motor Insurers Bureau in the UK  
+**L**ifetime customer value  
+
+
 ### Properties of good rating factors - Ch 13 - ADA VENOM
 
 **A**cceptable for policyholder  
