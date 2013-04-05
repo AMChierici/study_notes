@@ -428,6 +428,20 @@ _**T**echnological factors_
 **C**laims handling  
 **H**eavy experience  
 
+### Considerations using credibility - Ch 18 - SCAVS JUG
+
+**S**implicity  
+**C**redibility complement choice - accuracy / bias / independence from base data / availability / ease of calculation / relationship to risk  
+**A**ccuracy vs level of grouping  
+**V**isibility - consider imposing maximum swing, or self rating  
+**S**ource of data - more years / more locations / national data, etc  
+
+**J**udgement (considerable) needed when considering how to allow for large claims, trends and differing opinion of the current rate  
+**U**se of partial premiums  
+**G**oodness of fit - accuracy vs simplicity  
+**S**tability of data - eg weightings based on numbers, not amounts  
+
+
 ### Rating analysis steps - Ch 19 - EEPS CAP
 
 **E**stimating ultimate claims of recent claims incurred  
