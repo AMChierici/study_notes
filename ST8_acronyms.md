@@ -240,7 +240,7 @@ _**T**echnological factors_
 
 **B**odily injury claims (legislation)  
 **E**conomic conditions  
-**A**rragnements for profit sharing increasing  
+**A**rrangements for profit sharing increasing  
 **R**egulatory arbitrage and regulation  
 **D**istribution channels, new  
 
