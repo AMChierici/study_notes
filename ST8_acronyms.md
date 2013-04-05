@@ -133,6 +133,15 @@
 **T**ime and distance policies - insurer pays reinsurer a premium and in return reinsurer pays agreed schedule of claim payment; effectively discounts the reserves  
 **S**tructured finance - often provide insurer with a credit enhancement, which lowers the cost of borrowing  
 
+### Advantages / disadvantages of loss portfolio transfers - Ch 6 - CB, ABCD
+\+ **C**redit rating can be improved of original insurer  
+\+ **D**iversification benefits possible for new insurer, and may be able to run off the portfolio more profitably  
+
+\- **A**ssets may have to be realised to pass reserves to the accepting insurer  
+\- **B**uy-in may be required from reinsurers for transfer  
+\- **C**ost of transferring risk, depending on the risk appettite of the market  
+\- **D**efault risk may damage reputation of original insurer.  
+
 ### Regulatory restrictions for general insurance companies (ST8 reduced list) - Ch 7 - PILL LIT BARS
 
 **P**remium rates -> limits or controls on those that can be charged  
