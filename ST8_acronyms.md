@@ -292,6 +292,21 @@ _**T**echnological factors_
 **E**rrors  
 **Q**uality only as good as that of contributors' data systems  
 
+### Errors, ommissions, distortions in data - Ch 10 - DIRT PEP DLR (+ DR DONEQ)
+
+**D**ates  
+**I**nflation  
+**R**isk / claim details wrong / inconsistent / mistimed  
+**T**ype of claims  
+
+**P**olicy or claim number  
+**E**stimates (case) differences  
+**P**rocedure changes, e.g. claims handling: point of claim acceptance, point loss settled, nil claims treatment, etc  
+
+**D**elays (in processing, as well as changing definitions / delays in claims)  
+**L**arge claims  
+**R**eturn premiums  
+
 ### Uses of data - Ch 10 - SIR MAPEMAP
 
 **S**tatutory returns  
