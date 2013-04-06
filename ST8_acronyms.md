@@ -428,6 +428,15 @@ _**T**echnological factors_
 **C**laims handling  
 **H**eavy experience  
 
+### Advantages and disadvantages of exposure curves / ILFs - Ch 15 - LIES D
+
+\+ **L**ittle or no credible data available and they can (still) be used  
+\+ **I**nternally consistent loss costs can be obtained  
+\+ **E**asy to explain, relatively  
+\+ **S**imple to implement, relatively  
+
+\- **D**ifficult to apply in practice, often due to uncertainty in estimating or selecting the appropriate curves  
+
 ### Considerations using credibility - Ch 18 - SCAVS JUG
 
 **S**implicity  
