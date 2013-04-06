@@ -428,6 +428,21 @@ _**T**echnological factors_
 **C**laims handling  
 **H**eavy experience  
 
+### Exposure curve / _ILF_ construction process - Ch 15 - TG E(PC) S(FD)
+**T**rend (after collecting) losses. Exposure curves: express as % of risk size. ILFs: closed curves only.  
+**G**roup data into homogeneous groups. ILFS: into payment lags. Exposure curves: tabulate into accumulated losses by % of risk size.  
+
+**E**mpirical survival function / exposure curve construction. Combine groups where curve similar (ILF, usually group lag >= 5 years, say)  
+ **_(P)_**)roportion estimated of number of loss occurrences for an accident year settled at each lag  
+**_(C)_**)ombine empirical survival functions at each lag to estimate combined survival function for all claims  
+
+**S**mooth the curve / tail of combined survival function (often by fitting truncated Pareto above specified threshold)  
+**_(F)_**it parametric distribution to smooth curve (ISO use mixed exponential)  
+**_(D)_**erive limited average severity, & hence ILFs, from fitted distribution
+
+Also allow for open claims, deductibles / limits on underlying processes, inflation (trends)  
+
+
 ### Advantages and disadvantages of exposure curves / ILFs - Ch 15 - LIES D
 
 \+ **L**ittle or no credible data available and they can (still) be used  
