@@ -158,6 +158,19 @@
 **R**eserves for claims with requirement to deposit assets to back claims reserve.  
 **S**olvency maintained at a mininium level requirement, measured in some prescribed manner.  
 
+### Main insurance providers in London Market - Ch 8 - PCS PCS RB  
+
+**P** & I clubs  
+**C**aptives  
+**S**yndicates at Lloyd's  
+
+**P**ools  
+**C**ompanies owned by a group of insurance or reinsurance companies  
+**S**ubsidiaries or branches of overseas insurane or reinsurance companies  
+
+**R**einsurance departments of UK composites or reinsurance subsidiaries of these companies  
+**B**roking firms setting up small professional reinsurers for specific purpose of transacting London Market business  
+
 ### External environment factors affecting insurance - Ch 8 - ICIC CLTS WCL T
 
 _Economic factors_:  
