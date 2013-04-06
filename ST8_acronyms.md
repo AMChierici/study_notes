@@ -307,6 +307,19 @@ _**T**echnological factors_
 **L**arge claims  
 **R**eturn premiums  
 
+### Problems with using inaccurate data - Ch 10 - PPS RS CCC
+
+**P**remium rates too high -> smaller business volumes -> insufficient to cover fixed / start-up costs  
+**P**remium rates too low  -> larger business volumes -> at loss making rates, or worse than expected  
+**S**tructure of rating incorrect -> anti-selection  
+
+**R**einsurance purchased incorrect  
+**S**olvency issues  
+
+**C**onfidence lost by regulator -> business restrictions / closure  
+**C**onfidence lost by market -> longer term business retention problems  
+**C**onfidence lost by reinsurers  
+
 ### Uses of data - Ch 10 - SIR MAPEMAP
 
 **S**tatutory returns  
