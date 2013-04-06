@@ -158,7 +158,7 @@
 **R**eserves for claims with requirement to deposit assets to back claims reserve.  
 **S**olvency maintained at a mininium level requirement, measured in some prescribed manner.  
 
-### Main insurance providers in London Market - Ch 8 - PCS PCS RB  
+### Main insurance providers in London Market - Ch 7 - PCS PCS RB  
 
 **P** & I clubs  
 **C**aptives  
@@ -170,6 +170,19 @@
 
 **R**einsurance departments of UK composites or reinsurance subsidiaries of these companies  
 **B**roking firms setting up small professional reinsurers for specific purpose of transacting London Market business  
+
+### The slip system - Ch 7 - BP SUSUS R
+
+**B**roker in London Market approached by insured  
+**P**reparation of slip by broker, showing features of risk  
+
+**S**how slip to quoting underwriters, who quote a premium  
+**U**nderwriter (lead) selected by cedant and cedant decides firm order premium  
+**S**igning of slip by lead underwriter, taking share  
+**U**nderwriters (following) found by broker to accept risk on same terms  
+**S**igning down if more than 100% placed  
+
+**R**enegotiation if 100% can't be placed  
 
 ### External environment factors affecting insurance - Ch 8 - ICIC CLTS WCL T
 
