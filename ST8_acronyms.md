@@ -368,6 +368,23 @@ _**T**echnological factors_
 **R**un the model or process to arrive at an estimate of future claims costs  
 **V**alidity checking of estimate by sensitivity and scenario testing, or other methods 
 
+### Premium rating process - BCA GAP + TCP RICE + SPRICERS RCP LL
+
+_risk premium:_  
+**B**ase period choice  
+**C**ollect data  
+**A**djust data  
+
+**G**roup data  
+**A**nalyse data - frequency, ACPC, exposure  
+**P**roject for trends and inflation
+
+_add loadings for theoretical office premium_:  
+**TCP RICE**  
+
+_adjustments for final office premium_:  
+**SPRICERS RCP LL**  
+
 ### Office premium loadings - Ch 12 - TCP RICE
 **T**ax  
 **C**ommission  
@@ -441,7 +458,6 @@ _**T**echnological factors_
 **_(D)_**erive limited average severity, & hence ILFs, from fitted distribution
 
 Also allow for open claims, deductibles / limits on underlying processes, inflation (trends)  
-
 
 ### Advantages and disadvantages of exposure curves / ILFs - Ch 15 - LIES D
 
