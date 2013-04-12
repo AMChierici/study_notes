@@ -469,7 +469,7 @@ The investigations relating to the capital of a general insurer that we may need
 **R**einsurance  
 **E**nvironment allowances  
 
-## Requirement of a financial model - Ch 18 - FAVORS + risk measure
+### Requirement of a financial model - Ch 18 - FAVORS + risk measure
 A capital model requires a defined risk measure, e.g. 99.5% VaR.
 
 **F**lexible - sufficiently  
