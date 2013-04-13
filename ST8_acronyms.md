@@ -651,6 +651,18 @@ _similarities_:
 
 **M**ix of cedant business  
 
+### Pricing stop loss reinsurance - Ch 20 - ALS TIRR
+
+**A**ggregated results in a year (rather than an individual loss)  
+**L**oss ratio view  
+**S**eparately model attritional (historial experience), large (frequency-severity) and catastrophe (vendor model) losses  
+
+_considerations:_  
+**T**erms of particular stop loss contract  
+**I**nuring reinsurance covers  
+**R**isk transfer criteria (meeting regulatory minima)  
+**R**etained amount of recoverable layer by cedant  
+
 ### Modules in a catastrophe model - Ch 21 - H FIVE
 
 **H**azard  
