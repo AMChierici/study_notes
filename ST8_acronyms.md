@@ -547,6 +547,14 @@ Also allow for open claims, deductibles / limits on underlying processes, inflat
 **V**alidate model  
 **O**utput theoretical risk premium  
 
+### GLM model refinement - Ch 16 - MOPAI
+
+**M**odel restrictions  
+**O**ffsetting  
+**P**arameter smoothing / simplifaction: group and summarise prior to loading / group in modelling package / curve fitting, or use of variate / piecewise curve fitting  
+**A**liasing (dependency beteen parameters)  
+**I**nteractions - complete and marginal  
+
 ### Considerations using credibility - Ch 18 - SCAVS JUG
 
 **S**implicity  
