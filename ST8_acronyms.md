@@ -642,6 +642,15 @@ _similarities_:
 **P**rofit loading  
 **P**ayment to brokers loading  
 
+### Practical issues with RI pricing - Ch 20 - DISC M
+
+**D**iscounting  
+**I**nflation rate choice - factors: size of loss, group up losses / excess layer, drivers of inflation, territory  
+**S**hock loss treatment - \* remove, analyse without it, and add loading. \* spread the loss over a period of time  
+**C**ensus point - reporting threshold for large loss data  
+
+**M**ix of cedant business  
+
 ### Modules in a catastrophe model - Ch 21 - H FIVE
 
 **H**azard  
