@@ -618,6 +618,18 @@ Also allow for open claims, deductibles / limits on underlying processes, inflat
 **P**rice elasticity estimation  
 **L**ifetime pricing models  
 
+### Overview of RI risk premium process - Ch 20 - R(MIRS) MDK
+
+**R**isk loading form:
+  * **M**arginal impact on capital of writing a risk  
+  * **I**nvestment-equivalent pricing
+  * **R**eturn on capital required as basis
+  * **S**tandard deviation (proportion of) of expected loss cost to the cedant used 
+
+**M**ore of a negotiation process  
+**D**ata - amount and type  
+**K**nowledge same for purchaser and reinsurer  
+
 ### RI burning cost calculation process - Ch 20 - TAA DAD
 
 **T**rend the claims data  
