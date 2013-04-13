@@ -171,6 +171,14 @@
 **R**einsurance departments of UK composites or reinsurance subsidiaries of these companies  
 **B**roking firms setting up small professional reinsurers for specific purpose of transacting London Market business  
 
+### Reasons for captives - Ch 7 - A TARTr
+
+**A**vailable covers may not exist in traditional markets  
+**T**otal insurance spend management by company / group  
+**A**ccess to reinsurance markets directly enabled  
+**R**isk management - allows focused effort on  
+**T**ax or Regulatory advantages  
+
 ### The slip system - Ch 7 - BP SUSUS R
 
 **B**roker in London Market approached by insured  
