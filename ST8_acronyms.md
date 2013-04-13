@@ -663,6 +663,14 @@ _considerations:_
 **R**isk transfer criteria (meeting regulatory minima)  
 **R**etained amount of recoverable layer by cedant  
 
+### RI pricing complications - Ch 20 - LAIRS
+
+**L**oss ratio caps (puts max limit on cover)  
+**A**ggregate deductibles  
+**I**ndexation clause / stability clause (fully indexed, severe indexation, francise indexation)  
+**R**einstatements - limited and/or paid  
+**S**wing rates - "min plus" or "deposit + adjustment"  
+
 ### Modules in a catastrophe model - Ch 21 - H FIVE
 
 **H**azard  
