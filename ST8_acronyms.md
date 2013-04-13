@@ -530,6 +530,23 @@ Also allow for open claims, deductibles / limits on underlying processes, inflat
 
 \- **D**ifficult to apply in practice, often due to uncertainty in estimating or selecting the appropriate curves  
 
+### GLM process - Ch 16 - SCEFT RISC RVO
+
+**S**pecify models  
+**C**heck data loaded okay  
+**E**rror structure check  
+**F**actor significance test  
+**T**est consistency of key factors over **T**ime  
+
+**R**emove factors  
+**I**nteraction term introduction  
+**S**implify further / refine model - **MOPAI**  
+**C**ombine models, get single risk premium model  
+
+**R**estrictions allowances  
+**V**alidate model  
+**O**utput theoretical risk premium  
+
 ### Considerations using credibility - Ch 18 - SCAVS JUG
 
 **S**implicity  
