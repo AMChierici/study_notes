@@ -1,5 +1,15 @@
 # CT2 acronyms
 
+### Why gains are preferable to income in many investors' eyes - RAT ALE
+
+**R**ates are often lower than for income  
+**A**llowances can be such to offset gains  
+**T**iming of realising gains can be chosen to reduce tax  
+
+**A**ggregation of gains against losses is allowed  
+**L**osses can be carried forward until a gain is made  
+**E**xemptions exists (ie assets that do not incur taxable gains)  
+
 ### Accounting Concepts - Ch 7 - MCM MCB RAD PG
 
 **M**oney measurement  
