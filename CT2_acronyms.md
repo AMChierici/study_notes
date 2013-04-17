@@ -60,6 +60,13 @@ _less likely:_
 **O**verseas subsidiary (if it is)  
 **N**on-controlling shareholders - if there are minotry shareholders  
 
+### Consolidation process - EFGN 
+
+**E**liminate double counting - figures from relationships between group must be cancelled out  
+**F**igures added - must present figures as a single economic unit  
+**G**oodwill accounting - amount paid in excess of nominal value of share and reserves held by holiding company - shown as non-current assets in consolidated statement of financial position  
+**N**on-controlling asset accounting - minority interest shown in equity section  
+
 ### Limitations to use and interpretation of accounts - Ch 12 - RAM SCAM
 
 **R**atio analysis to judge performance - diverts attention from actual figures/accounts, comparisons may be inappropriate, different industries have peculiarities to make many ratios industry specific, creative accounting  
