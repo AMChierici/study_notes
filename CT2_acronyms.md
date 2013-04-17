@@ -36,6 +36,19 @@
 **P**rudence  
 **G**oing concern  
 
+### +/-s (international) accounting standards - CDDF RASS
+
+\+ **C**onsistency between account preparation of companies  
+\+ **D**iscussion of standards focuses attention on areas for debate  
+\+ **D**isclose more with standards than national laws require  
+\+ **F**lexibility in a way legislation does not allow  
+
+\- **R**ules may not be appropriate to all companies in all circumstances  
+\- **A**lternative treatments negate attempt to ensure conformity  
+\- **S**tandard setting may not be entirely objective  
+\- **S**tandards may be too general, or others too detailed  
+
+
 ### Limitations to use and interpretation of accounts - Ch 12 - RAM SCAM
 
 **R**atio analysis to judge performance - diverts attention from actual figures/accounts, comparisons may be inappropriate, different industries have peculiarities to make many ratios industry specific, creative accounting  
