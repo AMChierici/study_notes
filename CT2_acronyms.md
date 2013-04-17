@@ -60,3 +60,10 @@
 **A**vailability  
 **R**isks  
 **M**arket view  
+
+### Disadvantages of IRR method - MCAN
+
+**M**ultiplie or no solutions may exist, or nonsense results  
+**C**omplex calculation, often requiring iterative methods  
+**A**verage IRR of range of scenarios can't be calculated, as with value * probability for NPV  
+**N**o indication of size of project, or amount project will add to the value of the company and share price  
