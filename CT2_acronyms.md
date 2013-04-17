@@ -48,6 +48,17 @@
 \- **S**tandard setting may not be entirely objective  
 \- **S**tandards may be too general, or others too detailed  
 
+### Support between companies in a group if subsidiaries in danger of collapse - AG CLON
+
+_more likely if:_  
+**A**dverse publicity would arise if not  
+**G**uarantees have been given by the holding company  
+
+_less likely:_  
+**C**ontracts are made with individual companies, not the group  
+**L**egally no relationship  
+**O**verseas subsidiary (if it is)  
+**N**on-controlling shareholders - if there are minotry shareholders  
 
 ### Limitations to use and interpretation of accounts - Ch 12 - RAM SCAM
 
