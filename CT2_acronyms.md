@@ -67,3 +67,30 @@
 **C**omplex calculation, often requiring iterative methods  
 **A**verage IRR of range of scenarios can't be calculated, as with value * probability for NPV  
 **N**o indication of size of project, or amount project will add to the value of the company and share price  
+
+
+### Risk identification tools in project – Ch 12 -DR HUB
+The main steps needed to identify and clarify the particular risks inherent in a project:
+Desktop analysis (carry out) to supplement brainstorming session, by:
+• Identifying further risks and mitigation options
+• Researching similar projects undertaken by the sponsor or others in the past (including overseas)
+• Obtaining the considered opinion of experts who are familiar with the details of the project and outline plans for financing it
+Risk matrix / register
+• The rows in a risk matrix represent the stages of the project at which the risk arises, the columns represent the causes (or types) of risk. 
+• Risk register sets out identified risks, with cross references to other risks where there is interdependency
+High level preliminary analysis, to confirm the project does not obviously have such a high risk profile to not bother analysing further
+Upside potential in the project (sufficient), as well as downside risk, for it to be worth pursuing?
+Brainstorm session of project experts and senior internal and external people who are used to thinking strategically about the long term.
+• Identifying project risks, both likely and unlikely, and upside/downside
+• Discussing these risks and their interdependency. To assess independently, a thorough categorisation of the risks may be useful
+• Attempting to place a broad initial evaluation on each risk, both for frequency of occurrence and probable consequences if it does occur
+• Generating initial mitigation options and discussing them briefly
+
+### Identification of causes of risk – Ch 12 – PNEFCPB
+**P**olitical risks, e.g. political developments, disagreements amongst sponsors  
+**N**atural risks  
+**E**conomic risks, e.g. interest rate or currency movements  
+**F**inancial risks, e.g. incorrect cashflow estimates, problems obtaining finance, refinancing issues, hidden assumptions  
+**C**rime, e.g. fraud  
+**P**roject risks, e.g. insufficiently defined objectives, over time or over budget.  
+**B**usiness risks, e.g. competition, loss of key personnel, deterioration, obsolescence, insolvency of contractor, decommissioning  
