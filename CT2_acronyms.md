@@ -10,6 +10,15 @@
 **L**osses can be carried forward until a gain is made  
 **E**xemptions exists (ie assets that do not incur taxable gains)  
 
+### Auditors' opinions - UM EQDA
+
+**U**nqualified report  
+**M**odified report  
+  * **E**mphasis of matter paragraphs - if there is significant uncertainty which has been disclosed in the accounts, the auditor should point this out for emphasis   
+  * **Q**ualified opinion - when resriction on evidence auditor can access, or disagrees with treatment of a matter then auditor offers opinion of financial statement "except for" the disclosed problem  
+  * **D**islaimer of opnion - such extreme uncertainty so impossible to express opinion.  
+  * **A**dverse opinion - auditor believes financial statements are so misleading they do not give a true and fair view  
+
 ### Accounting Concepts - Ch 7 - MCM MCB RAD PG
 
 **M**oney measurement  
