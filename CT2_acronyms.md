@@ -69,7 +69,7 @@
 **N**o indication of size of project, or amount project will add to the value of the company and share price  
 
 
-### Risk identification tools in project – Ch 12 -DR HUB
+### Risk identification tools in project – Ch 17/18 - DR HUB
 The main steps needed to identify and clarify the particular risks inherent in a project:
 Desktop analysis (carry out) to supplement brainstorming session, by:
 • Identifying further risks and mitigation options
@@ -86,7 +86,7 @@ Brainstorm session of project experts and senior internal and external people wh
 • Attempting to place a broad initial evaluation on each risk, both for frequency of occurrence and probable consequences if it does occur
 • Generating initial mitigation options and discussing them briefly
 
-### Identification of causes of risk – Ch 12 – PNEFCPB
+### Identification of causes of risk – Ch 18 – PNEFCPB
 **P**olitical risks, e.g. political developments, disagreements amongst sponsors  
 **N**atural risks  
 **E**conomic risks, e.g. interest rate or currency movements  
@@ -94,3 +94,13 @@ Brainstorm session of project experts and senior internal and external people wh
 **C**rime, e.g. fraud  
 **P**roject risks, e.g. insufficiently defined objectives, over time or over budget.  
 **B**usiness risks, e.g. competition, loss of key personnel, deterioration, obsolescence, insolvency of contractor, decommissioning  
+
+### Criteria assessed in the initial appraisal of a project – Ch 17 – SPURSO
+Don’t forget later stages of appraisal and risk mitigation!
+
+**S**ynergies with other projects  
+(**P**olitical) -satisfying constraints  
+**U**pside potential (ensuring sufficient)  
+**R**esults (financial) and risks  
+**S**carce resources (use of)  
+**O**ther targets hoping to be achieved by the project  
