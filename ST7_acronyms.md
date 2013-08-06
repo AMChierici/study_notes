@@ -348,7 +348,7 @@ The investigations relating to the capital of a general insurer that we may need
 **E**nvironment - business / economic / legal  
 **T**erms and conditions changes  
 
-**D**ata disrotions  
+**D**ata distortions  
 **R**eviews - e.g. adequacy of claims reserves  
 **U**nderwriting changes  
 **M**ix of business changes  
