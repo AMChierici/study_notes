@@ -46,3 +46,16 @@
 **L**inear homogeneity - f(ax) = af(x) where a positive #  
 **I**nvariant translationally - f(X + aR) = f(X) - a where a positive # and R represents value @ specified future date of risk free asset const value 1  
 **M**onotonicity - f(X) \leq f(Y) where X \geq Y -> if portfolio is always worth more than another it cannot be riskier  
+
+### Key assumptions in modelling process - Ch 11 - RITE PRICE  
+
+**R**isk measures  
+**I**nvestment return  
+**T**ime horizon  
+**E**conomic environment  
+
+**P**remiums - future written premium income  
+**R**einsurance  
+**I**nsurance cycle  
+**C**laims - future  
+**E**xpenses - future  
