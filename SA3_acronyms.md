@@ -18,3 +18,11 @@
 **U**K subsidiaries or branches of overseas insurance / reinsurance companies  
 **S**mall professional reinsurers set up (or acquired by) large broking firms to transact London Market business  
 **H**ome foreign or reinsurance departments, or reinsurance subsidiaries, of UK composite companies  
+
+### The basic principles of the Actuaries' Code - Ch 5 - ICICO
+
+**I**ntegrity  
+**C**ompetence and care  
+**I**mpartiality  
+**C**ompliance  
+**O**pen communication  
