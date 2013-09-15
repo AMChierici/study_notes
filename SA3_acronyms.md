@@ -27,6 +27,24 @@
 **C**ompliance  
 **O**pen communication  
 
+### Roles of actuaries in area of large commerical risks - Ch 6 - DUAL SCAN
+
+**D**esigning rate monitoring and data capture systems  
+**U**nderwriting advice  
+**A**uditing  
+**L**icense agreement signing off (pricing and other terms and conditions)  
+
+" **S**econd pair of eyes", acting as  
+**C**alculating the minimum technical rate  
+**A**ccumulation control  
+**N**egotiation with:
+ * third parties
+ * client risk managers
+ * underwriters and negotiators
+ * agents/brokers
+ * finance department
+ * claims department
+
 ### Desirable risk measure characteristics - Ch 7 - QNOME CCCC
 
 **Q**uantifies risk in a manner understood by the decision maker  
