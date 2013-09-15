@@ -1,5 +1,28 @@
 % SA3 acronyms
 
+### Big issues - BASIC POWDER PRIMPS
+
+**B**usiness (risks)  
+**A**ccounts  
+**S**takeholders  
+**I**nvestment (risks)  
+**C**laims (risks)  
+
+**P**roducts  
+**O**verall management  
+**W**orldwide risks  
+**D**ata  
+**E**xpenses (risks)  
+**R**eserving  
+
+**P**ricing  
+**R**egulations  
+**I**nvestment  
+**M**arkets  
+**P**racticalities  
+**S**olvency  
+
+
 ### Reasons for captives - Ch 2 - A TARTlr
 
 **A**vailable covers may not exist in traditional markets, so to fill gaps.  
