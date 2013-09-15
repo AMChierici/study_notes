@@ -68,6 +68,17 @@
  * finance department
  * claims department
 
+### Understanding the client (pricing large commercial risks) - Ch 6 - RECCORN
+
+**R**eason the client needs cover?  
+**E**xisting similar clients?  
+**C**hanged significantly over time?  
+**C**hanges in processes used by client affecting nature of the risks it's exposed to  
+**O**verseas / is the client multinational, requiring cover in many territories?  
+**R**isk management levels the client has  
+**N**ew or renewal - influences data and background knowledge the insurer has  
+
+
 ### Desirable risk measure characteristics - Ch 7 - QNOME CCCC
 
 **Q**uantifies risk in a manner understood by the decision maker  
