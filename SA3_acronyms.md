@@ -26,3 +26,16 @@
 **I**mpartiality  
 **C**ompliance  
 **O**pen communication  
+
+### Desirable risk measure characteristics - Ch 7 - QNOME CCCC
+
+**Q**uantifies risk in a manner understood by the decision maker  
+**N**on-manipulable  
+**O**bservable  
+**M**easurable  
+**E**asy to communicate and apply  
+
+**C**onsistent with management's perception of risk  
+**C**onsistent, ideally, with basis used to establish the aggregate capital requirement  
+**C**onsistent internally, ideally, allocation of diversification benefits as a result, i.e. additivity of allocations  
+**C**oherent allocation as a result  
